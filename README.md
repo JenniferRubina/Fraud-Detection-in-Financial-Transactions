@@ -10,3 +10,10 @@ Developed using Python, this project aims to provide a robust solution for finan
 * Machine Learning Models: Utilizes Random Forest and other supervised learning techniques.
 * Scalable Solution: Designed to handle large volumes of transaction data.
 * Python Implementation: Developed using Python and various data science libraries.
+
+## Project Structure
+* Fin Fraud dataset.csv: Dataset containing the raw data.
+* Fraud-Detection-in-Financial-Transactions.ipynb: Pynote file with code for data preprocessing, model training and model evaluation.
+* Preprocessed Fin fraud dataset.csv: Dataset containing the preprocessed data.
+* README.md: Project documentation.
+
